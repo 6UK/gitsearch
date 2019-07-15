@@ -18,7 +18,7 @@ All safe , no bugs will be encoutered on my github app. But in case it is unfort
 * Git Hub
 * Terminal
 ## Support and contact details
-For contact information email @ karugunjoroge@gmail.com
+For contact information email @ karugunjoroge@gmail.com.
 ### License
 *[MIT]
 Copyright (c) 2019 **NJOROGE KARUGU**
