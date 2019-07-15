@@ -14,7 +14,7 @@ All safe , no bugs will be encoutered on my github app. But in case it is unfort
 ## Technologies Used
 * HTML.
 * CSS.
-* Angular JS.
+* Angular JS
 * Git Hub
 * Terminal
 ## Support and contact details
