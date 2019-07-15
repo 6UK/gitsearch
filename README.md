@@ -16,7 +16,7 @@ All safe , no bugs will be encoutered on my github app. But in case it is unfort
 * CSS.
 * Angular JS.
 * Git Hub.
-* Terminal.
+* Terminal
 ## Support and contact details
 For contact information email @ karugunjoroge@gmail.com
 ### License
